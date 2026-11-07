@@ -1,22 +1,14 @@
 # 👋 Hey, I'm Tee_Kay | Software Engineer
 
-### 🚀 Software Engineering | Backend Systems | Mobile Development
+### 🚀 Software Engineer | Backend Systems | Mobile Development
 
-I'm a Software Engineer based in Lagos, Nigeria, with experience developing backend systems, cross-platform applications, and scalable software solutions.
-
-I currently work at **Nowtech Industries**, where I contribute to software development using **Java (Spring Boot), NestJS, and Flutter**. My engineering interests span backend architecture, API development, distributed systems, application security, database management, and cloud technologies.
-
-Beyond my professional work, I'm interested in exploring how technology can solve complex problems across different industries. I'm particularly interested in **FinTech and financial infrastructure**, which has led me to independently explore and develop financial technology solutions using Java and Spring Boot, with a focus on secure authentication, transaction processing, and reliable movement of money.
-
-I'm also working on developing a technical course to share practical software engineering knowledge with other developers.
+I'm a software engineer in Lagos, Nigeria, working at **Nowtech Industries** with **Java (Spring Boot), NestJS, and Flutter**, and I'm also interested in **FinTech** and secure, reliable money movement.
 
 - 💼 Software Engineer at **Nowtech Industries**
-- 🏗️ Founder & CTO of **CostIt** – A construction materials marketplace for the Nigerian market.
-- 💳 Exploring FinTech, payment infrastructure, transaction processing, and financial systems.
-- 📚 Developing a technical course focused on practical software engineering.
-- ⚙️ Interested in scalable backend architecture, distributed systems, asynchronous processing, and cloud infrastructure.
-- 💬 Ask me about Java, Spring Boot, NestJS, Flutter, API design, OAuth 2.0, authentication, and backend engineering.
-
+- 🏗️ Founder & CTO of **CostIt**, a construction materials marketplace for the Nigerian market
+- 💳 Exploring FinTech: payment infrastructure, transaction processing, and secure authentication
+- 📚 Building a technical course on practical software engineering
+- 💬 Ask me about Java, Spring Boot, NestJS, Flutter, API design, OAuth 2.0, and backend engineering
 ---
 
 ## 🌐 Let's Connect
@@ -88,32 +80,8 @@ I'm also working on developing a technical course to share practical software en
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat&logo=bruno&logoColor=black)
 ![Cloud9](https://img.shields.io/badge/AWS_Cloud9-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ---
-
-## 🚧 What I'm Currently Working On
-
-- **Professional Engineering:** Developing backend services and cross-platform applications at Nowtech Industries.
-- **CostIt:** Growing a construction materials marketplace that connects buyers and sellers in the Nigerian construction industry.
-- **FinTech Exploration:** Independently developing a financial technology project with Java and Spring Boot, exploring secure transaction processing and financial infrastructure.
-- **Technical Education:** Developing a course to help developers understand practical software engineering concepts and implementation.
-
----
-
-## 🎯 Engineering Interests
-
-I'm particularly interested in:
-
-- Scalable Backend Architecture
-- Distributed Systems & Microservices
-- Financial Technology & Payment Infrastructure
-- API Design & System Integration
-- Asynchronous Processing & Message Queues
-- Application Security & Authentication
-- Cloud Infrastructure & Deployment
-- Cross-Platform Application Development
-
----
-
 *Always learning, building, and exploring better ways to engineer software.*
