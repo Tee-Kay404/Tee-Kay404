@@ -1,6 +1,7 @@
 # 👋 Hey, I'm Tee_Kay | Software Engineer
 
-### 🚀 Software Engineer | Backend Systems | Mobile Developmentss
+### 🚀 Software Engineer | Backend Systems | Mobile Developments
+
 I'm a software engineer in Lagos, Nigeria, working at **Nowtech Industries** with **Java (Spring Boot), NestJS, and Flutter**, and I'm also interested in **FinTech** and secure, reliable money movement.
 
 - 💼 Software Engineer at **Nowtech Industries**
